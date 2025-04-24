@@ -1,7 +1,28 @@
-# Mini-Assignments
-Uploading the Practiced Codes
-This file has different practice assignments problems on the course of learning Python. 
-All the problems are related to simple EMI calculations. Different simple scenarios has been dealt with one function 'loan_emi'
-Problem 1: Dealt with choosing a right option from the given scenarios of homeloan
-Problem 2: Dealt in finding total EMI amount for home and car loan
-Problem 3: Found out how much extra amount we are paying as an interest at end of the loan. This problem has been solved with alternative method too. 
+# Mini-Assignments  
+**Uploading the Practiced Codes**
+
+This file contains various practice assignment problems completed during the course of learning Python.
+
+All the problems are related to simple **EMI (Equated Monthly Installment)** calculations.  
+Different simple scenarios have been addressed using one main function: `loan_emi`.
+
+---
+
+### **Problem 1:**  
+**Choosing the Right Loan Option**  
+This problem deals with selecting the best loan option among the given home loan scenarios based on total interest payable or EMI affordability.
+
+---
+
+### **Problem 2:**  
+**Calculating Total EMI Amount for Home and Car Loans**  
+This task involves computing the combined EMI amount when there are multiple loans—such as home and car loans—and assessing the total financial spend.
+
+---
+
+### **Problem 3:**  
+**Interest Paid Over Time**  
+This problem focuses on determining how much extra money is paid as interest over the entire loan duration.  
+An alternative method to calculate the interest has also been provided for comparison and clarity.
+
+---
